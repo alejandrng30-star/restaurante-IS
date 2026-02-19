@@ -1,43 +1,27 @@
-skall hall
-<img width="1878" height="902" alt="image" src="https://github.com/user-attachments/assets/29db17cc-739f-4f24-b587-086b0a2286c9" />
-<html lang="es">
+<html>
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Skal Hall - Cocina Nórdica en México</title>
-    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;600;700&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
-    <style>
-        :root {
-            --ice-white: #F8FAFB;
-            --frost-blue: #C8D8E4;
-            --nordic-blue: #2B4C5F;
-            --deep-forest: #1A2F3A;
-            --warm-amber: #D4A574;
-            --soft-cream: #F5F1E8;
-            --midnight: #0A1612;
-            --accent-gold: #C9A66B;
-        }
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
 
-        body {
-            font-family: 'Montserrat', sans-serif;
-            background: var(--ice-white);
-            color: var(--deep-forest);
-            overflow-x: hidden;
-            line-height: 1.6;
-        }
 
-        /* HERO SECTION */
-        .hero {
-            position: relative;
-            height: 100vh;
-            background: linear-gradient(135deg, var(--nordic-blue) 0%, var(--deep-forest) 100%);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            overflow: hidden;
+</head>
+
+<body>
+
+    
+</body>
+    
+<p>Nuestro proyecto se trata sobre una pagina de un restauran, para facilitar a los usuarios checar todo antes de llegar al establecimineto.</p>
+
+<p>Alan Ramon Texocotitla Bastida <img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/5e90ad4e-f218-4ba3-a086-08c1fe5b4f34" />
+</p>
+
+<p>Jorge Alejandro Nuñes Gonzales <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/512ed9a3-da5e-45ff-b2a4-85aaf2a7f9f7" />
+ </p>
+ 
+<p>Jesus Esteban Mejia Salinas <img width="345" height="146" alt="image" src="https://github.com/user-attachments/assets/4deea68c-de0d-4301-8803-b5c3f1d03292" />
+</p>
+
+<p>Rocio Guadalupe  Luna Celestino</p>
+
+</html>
